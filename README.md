@@ -1,2 +1,1 @@
-# installationsleitfaden
-Beispiel zur Dokumentation mit Sphinx
+# Netzwerksegmentierung nach Netzbrief - Basisanleitung
