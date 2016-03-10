@@ -13,8 +13,8 @@ in 3 Segmente unterteilt werden.
 
 Wie bisher ist eine Einteilung der Rechner eines Raumes im dritten Oktett
 problemlos möglich, z.B. alle Rechner in Raum 107 sind im Schülernetz und haben
-Adressen aus dem Netzbereich 10.18.107.0/24, alle Rechner des Lehrerzimmers
-sind im Lehrernetz und haben Adressen aus 10.17.120.0/24. Die Unterscheidung
+Adressen aus dem Bereich 10.18.107.x, alle Rechner des Lehrerzimmers
+sind im Lehrernetz und haben Adressen aus dem Bereich 10.17.120.x. Die Unterscheidung
 der Räume bleibt also im 3. Oktett, die Unterscheidung der Subnetze findet im 2.
 Oktett statt.
 
