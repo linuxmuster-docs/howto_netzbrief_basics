@@ -9,8 +9,7 @@ linuxmuster.net Netzsegmentierung Basisanleitung
 Im `aktuellen Netzbrief
 <http://www.it.kultus-bw.de/,Lde/Startseite/IT-Sicherheit/Netztechnik+_+Netzbrief>`_
 des Landes Baden-Württemberg wird empfohlen, das Schulnetzwerk aus
-datenschutzrechtichen Erwägungen in Stimmt es, dass die Daten regelmäßig
-übermittelt werden?  mindestens drei Subnetze zu untergliedern: Lehrernetz,
+datenschutzrechtichen Erwägungen in mindestens drei Subnetze zu untergliedern: Lehrernetz,
 Schülernetz und Servernetz. 
 
 Sehr ausführliche Informationen, wie  dies in linuxmuster.net umgesetzt 
