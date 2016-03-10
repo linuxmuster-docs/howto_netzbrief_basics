@@ -49,8 +49,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Dokutemplate FIXME'
-copyright = u'2015, FIXME'
+project = u'Netzsegmentierung Basisanleitung'
+copyright = u'2016, linuxmuster.net'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -118,7 +118,7 @@ html_theme_path = ["_themes"]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "linuxmuster.net FIXME"
+html_title = "linuxmuster.net Netzsegmentierung Basisanleitung"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -184,7 +184,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'FIXMEdoc'
+htmlhelp_basename = 'netzsegmentierung'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -204,8 +204,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'Installationsleitfaden.tex', u'linuxmuster.net Installationsleitfaden',
-   u'Maurice und Kai', 'manual'),
+  ('index', 'netzsegmentierung.tex', u'linuxmuster.net Netzsegmentierung Basisanleitung',
+   u'Frank Schiebel', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -234,8 +234,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'FIXME', u'linuxmuster.net FIXME',
-     [u'Author FIXME'], 1)
+    ('index', 'Netzsegmentierung', u'linuxmuster.net Netzsegmentierung Basisanleitung',
+     [u'Frank Schiebel'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -248,8 +248,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Installationsleitfaden', u'Installationsleitfaden Documentation',
-   u'Maurice und Kai', 'Installationsleitfaden', 'One line description of project.',
+  ('index', 'Installationsleitfaden', u'Netzsegmentierung Basisanleitung',
+   u'Frank Schiebel', 'Netzsegmentierung Basisanleitung', 'Anleitung zur Netzsegmentierung',
    'Miscellaneous'),
 ]
 
@@ -269,10 +269,10 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'FIXME Title'
-epub_author = u'FIXME Author'
-epub_publisher = u'FIXME Publisher'
-epub_copyright = u'2015, FIXME Copyright'
+epub_title = u'Netzsegmentierung Basisanleitung'
+epub_author = u'Frank Schiebel'
+epub_publisher = u'linuxmuster.net'
+epub_copyright = u'2016, linuxmuster.net'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Installationsleitfaden'
