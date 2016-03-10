@@ -11,9 +11,12 @@ in 3 Segmente unterteilt werden.
 * Lehrernetz, Netzwerkadressen 10.17.0.0/16
 * Schülernetz, Netzwerkadressen 10.18.0.0/16
 
-Wie bisher ist eine Einteilung der Rechner eines Raumes im dritten Oktett problemlos möglich, 
-z.B. alle Rechner in Raum 107 sind im Schülertnetz und haben Adressen aus 10.18.107.0/24 alle 
-Rechner des Lehrerzimmers sind im Lehrernetz und haben Adressen aus 10.17.120.0/24
+Wie bisher ist eine Einteilung der Rechner eines Raumes im dritten Oktett
+problemlos möglich, z.B. alle Rechner in Raum 107 sind im Schülernetz und haben
+Adressen aus dem Netzbereich 10.18.107.0/24, alle Rechner des Lehrerzimmers
+sind im Lehrernetz und haben Adressen aus 10.17.120.0/24. Die Unterscheidung
+der Räume bleibt also im 3. Oktett, die Unterscheidung der Subnetze findet im 2.
+Oktett statt.
 
 Für die Unterteilung werden auf den Switches VLANs eingerichtet, diese Anleitung Verwendet 
 
